@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,flutter&theme=light)](https://skillicons.dev)
 
 <!--
 **ali-borujerdi/ali-borujerdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
